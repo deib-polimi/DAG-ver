@@ -1,12 +1,12 @@
 ## DAG-ver 
 
-This repository provides additional information to the paper *"Optimizing the Timed Analysis of ordered DAG-based computations"*.
+This repository provides additional information to the paper *"Using Formal Verification to Evaluate the Execution Time of Spark Applications"*.
 
 ### Dilworth's DAG Partitioning/labeling
 Implementation of DAG labeling with Dilworth's theorem and Bogart-Magagnosc's algorithm
 https://github.com/gioenn/dilworth-labeling 
 
-The algorithm is integrated in the [D-VerT Tool](https://github.com/dice-project/DICE-Verification), which has been used to conduct the evaluation on the Apache Spark use case.
+The algorithm is integrated in the [D-VerT Tool](https://github.com/dice-project/DICE-Verification), which has been used to conduct the evaluation on the use cases.
 
 
 ### Evaluation
@@ -38,6 +38,7 @@ For *memory*:
 - gray for percentage difference between 1% and 20% (respectively, between -1% and -20%)
 - dark gray for percentage difference between 20% and 50% (respectively, between -20% and -50%)
 - black for percentage difference above 50% (respectively, below -50%)
+---
 
 #### Download Links
 
@@ -53,6 +54,7 @@ For *memory*:
 
 [*K-means*](https://github.com/deib-polimi/DAG-ver/blob/master/docs/kmeans.xlsx?raw=true)
 
+---
 
 Timing characteristics of the models are based on runs of the corresponding Spark applications profiled by means of [xSpark-Bench Tool](https://github.com/franco-maroni/xSpark-bench).
 
