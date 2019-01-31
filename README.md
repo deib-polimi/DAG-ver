@@ -10,7 +10,7 @@ The algorithm is integrated in the [D-VerT Tool](https://github.com/dice-project
 
 
 ### Evaluation
-These xlsx files included in the  [docs](https://github.com/deib-polimi/DAG-ver/tree/master/docs) folder show the summary of the experiments carried out for the different use cases, highlighting the impact of the optimization in terms of both verification time and memory across the different verification tool configurations adopted.
+The xlsx files included in the  [docs](https://github.com/deib-polimi/DAG-ver/tree/master/docs) folder (downloadable through the links below) show the summary of the experiments carried out for the different use cases, highlighting the impact of the optimization in terms of both verification time and memory across the different verification tool configurations adopted.
 Each file refers to a use case, and each sheet in the file refers to a tool configuration.
 
 Each row in the tables shows the statistics regarding the verification of the feasibility problem against a specific deadline. 
