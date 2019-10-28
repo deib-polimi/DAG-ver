@@ -54,6 +54,8 @@ For *memory*:
 
 [*K-means*](https://github.com/deib-polimi/DAG-ver/blob/master/docs/kmeans.xlsx?raw=true)
 
+[*Louvain*](https://github.com/deib-polimi/DAG-ver/blob/master/docs/louvain.xlsx?raw=true)
+
 ---
 
 Timing characteristics of the models are based on runs of the corresponding Spark applications profiled by means of [xSpark-Bench Tool](https://github.com/franco-maroni/xSpark-bench).
