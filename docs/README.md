@@ -42,3 +42,5 @@ For *memory*:
 [*SVM*](https://github.com/deib-polimi/DAG-ver/blob/master/docs/svm.xlsx?raw=true)
 
 [*K-means*](https://github.com/deib-polimi/DAG-ver/blob/master/docs/kmeans.xlsx?raw=true)
+
+[*Louvain*](https://github.com/deib-polimi/DAG-ver/blob/master/docs/louvain.xlsx?raw=true)
